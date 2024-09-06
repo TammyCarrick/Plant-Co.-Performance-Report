@@ -1,7 +1,7 @@
 # Plant Co. 2024 YTD Performance Report
 
 ## Executive Summary
-Plant Co. is an international company that sells plants. In January to August 2024, Plant Co. has experienced a decrease in profit, quantity, and sales. Interactive Power BI report can be found [here](https://utoronto-my.sharepoint.com/:u:/r/personal/tammy_carrick_mail_utoronto_ca/Documents/Plant%20Co%20Performance%20Report.pbix?csf=1&web=1&e=rk1lPu).
+Plant Co. is an international company that sells plants. From January 2024 to August 2024, Plant Co. has experienced a decrease in YTD profit, quantity, and sales. Interactive Power BI report can be found [here](https://utoronto-my.sharepoint.com/:u:/r/personal/tammy_carrick_mail_utoronto_ca/Documents/Plant%20Co%20Performance%20Report.pbix?csf=1&web=1&e=rk1lPu).
 
 **Screenshot of dashboard:**
 ![Report](https://github.com/TammyCarrick/Plant-Co.-Performance-Report/blob/main/Plant%20Co%20Dashboard.png?raw=true)
